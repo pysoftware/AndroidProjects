@@ -1,2 +1,1 @@
-# AndroidProjects
-My Android projects are here
+# Swipe Cards Android
